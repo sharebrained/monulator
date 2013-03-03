@@ -1,0 +1,3 @@
+[submodule "monulator-arm-lpc11u/firmware/http-parser"]
+	path = monulator-arm-lpc11u/firmware/http-parser
+	url = git@github.com:joyent/http-parser.git
